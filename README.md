@@ -3,7 +3,8 @@
 contacto: nahuelbrandan123@gmail.com
 Desarrollador: Nahuel Brandán.
 
-##Decisión de diseño:
+## Decisión de diseño:
+
 ### Clases:
 
 * Archivo: Para manejar el documento a traducir.
@@ -83,7 +84,7 @@ donde/
 3. Agregar un parámetro  `-m (--implementation)` que reciba `0` o `1`.
     Hecho.
 
-##Comentarios:
+## Comentarios:
 
 * utilicé el IDE: NetBeans IDE 8.0.2.
 * Existen mucha variedad de librerias útiles.
